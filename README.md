@@ -45,9 +45,9 @@ Your program will consist of two files: one is a module, ``volume.py``, which co
 
         |Shape|Volume|
         |-	|-	|
-        |cube|<img src="https://latex.codecogs.com/gif.latex?\text {volume = }a^{3}\text { where a is the length of a side}" />|
-        |pyramid|<img src="https://latex.codecogs.com/gif.latex?\text {volume = }\frac{1}{3}b^{2}h\text {  where b is base length and h is height}" />|
-        |ellipsoid|<img src="https://latex.codecogs.com/gif.latex?\text {volume = }\frac{4}{3}\pi * r1 * r2 * r3\text {where $\pi$ and r is used to represent each radius}" />|
+        |cube|volume = $a^{3}$ where a is the length of a side|
+        |pyramid|volume = $\frac{1}{3}b^{2}h$ where b is base length and h is height|
+        |ellipsoid|volume = $\frac{4}{3}\pi * r1 * r2 * r3$ where $\pi$ and r is used to represent each radius|
 
 ## Examples of output and some test cases
 
