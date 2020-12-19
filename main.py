@@ -33,4 +33,16 @@ def main():
 		else:
 			break
 
+	if not results:
+		print("Output: No shapes entered.")
+	
+	else:
+		results.sort(key = lambda results: results[1])
+		
+		print("Output: Volumes of shapes entered in sorted order:")
+		for shape, value in results:
+			print(shape, "{:.2f}".format(value))
+	
+	print()
+
 main()
